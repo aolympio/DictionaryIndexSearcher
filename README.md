@@ -1,0 +1,3 @@
+DictionaryIndexSearcher
+=======================
+POC purposes.
